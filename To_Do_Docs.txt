@@ -1,0 +1,44 @@
+Final
+
+Dedicatória
+Agradecimentos
+
+Alex
+
+*Atualizar componente React para Angular*
+5. Texto introdutorio de projeto Detalhado do Software
+5.3 Componentes do SW
+5.7 Texto introdutorio de Diagrama de Pacotes
+5.8 Texto introdutorio de Diagrama de Estado
+5.9 Interfaces com usuário
+5.10 Texto introdutorio de Relatórios 
+6. Texto da Implementação
+7. Texto introdutorio de Projeto de Teste
+8. Texto introdutório de Instalação do Software
+Referências e afins
+
+Verificar 
+
+Lista de tabelas (?) 
+4.3.1 Casos de Uso (Necessário mudança?)
+5.2.2 APIs Utilizadas (?)
+9. Análise de Resultados (?)
+Anexos (?)
+Glossário (?)
+Apêndice (?)
+
+To Do 
+
+Dedicatória
+Agradecimentos
+Resumo
+5.1 Corrigir Arquitetura da aplicação Atual, está incorreta
+5.3 Componentes do SW
+5.7 Alterar Diagrama de Pacotes do Front e Criar o do Backend
+5.8 Criar Diagrama de Estados
+5.9 Salvar todas as telas do sistema
+5.10 Decidir relatórios
+6. Decidir repositório onde o código ficará disponível
+7. Projeto de Teste
+8. Instalação do sistema
+Conclusão
